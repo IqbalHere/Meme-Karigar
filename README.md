@@ -169,7 +169,7 @@ black . && isort .
 
 ## 🤖 Credits
 
-**Built with ❤️ by [Hussain Iqbal](https://github.com/IqbalHere)**
+
 
 ### Powered By:
 - 🧠 **Google Gemini AI** - Intelligent translation
